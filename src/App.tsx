@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import {
   GraduationCap,
-  Sparkles,
   Sun,
   Moon,
   ShieldCheck,
