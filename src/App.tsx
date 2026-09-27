@@ -425,10 +425,10 @@ export function App() {
       >
         <div style={{ maxWidth: '1100px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem' }}>
           <div>
-            <strong>CogniPlan AI</strong> · Frontend Technical Assessment Submission (Study Assistant)
+            <strong>CogniPlan AI</strong> 
           </div>
           <div>
-            React-based structured learning workspace
+             Structured learning workspace
           </div>
         </div>
       </footer>
