@@ -180,3 +180,5 @@ The project intentionally uses strict client-side validation: incomplete top-lev
 1. **OCR / File Attachment Uploads:** Currently accepts free-form text input; adding native PDF or image parsing directly to the backend proxy would allow uploading full textbook chapters.
 2. **Audio Pronunciation:** Future iteration could integrate Web Speech API to read flashcard prompts aloud for auditory learners.
 3. **Spaced Repetition Algorithm (SM-2):** Integrate SuperMemo-2 interval scheduling across multi-day review sessions.
+
+live demo: https://cogniplan-ai-study-assistant.vercel.app/
