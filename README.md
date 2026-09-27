@@ -1,6 +1,5 @@
 # CogniPlan — AI-Powered Interactive Study Planner & Mastery Assistant
-
-> **Frontend Internship Assignment Submission for Flam**  
+  
 > **Project Choice:** Study Assistant & Planner  
 > **Stack:** React 19 (Hooks, Functional Components, TypeScript), Node.js / Express Proxy Backend, Google Gemini 2.5 Flash API, Lucide Icons, Canvas Confetti.  
 > **Design Theme:** Executive Obsidian Slate, Forest Emerald (`#10b981`), and Warm Amber (`#f59e0b`) — *specifically designed with zero generic Gemini blue shades for enterprise readiness*.
@@ -151,12 +150,12 @@ In accordance with Section 8 of the assignment brief:
 
 | Phase | Description | Time Spent |
 |---|---|---|
-| **Phase 1** | Schema design, type definitions, and backend proxy setup | ~1.5 hours |
-| **Phase 2** | Defensive JSON parsing (`validateResult.ts`) and failure modes sandbox | ~1.5 hours |
+| **Phase 1** | Schema design, type definitions, and backend proxy setup | ~1 hours |
+| **Phase 2** | Defensive JSON parsing (`validateResult.ts`) and failure modes sandbox | ~1 hours |
 | **Phase 3** | Core UI (PromptInput, 3D Flashcards, Mistake Re-testing Quiz) | ~2.5 hours |
-| **Phase 4** | Stretch goals (Roadmap, Refinement Loop, Session Storage, Markdown Export) | ~1.5 hours |
+| **Phase 4** | Stretch goals (Roadmap, Refinement Loop, Session Storage, Markdown Export) | ~1 hours |
 | **Phase 5** | Design system polish, mobile responsiveness, and documentation | ~1.0 hour |
-| **Total** | | **~8.0 hours** |
+| **Total** | | **~6.5 hours** |
 
 ---
 
